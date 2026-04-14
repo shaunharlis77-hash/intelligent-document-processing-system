@@ -82,3 +82,26 @@ This solution can be used in finance and operations to automate invoice processi
 * Add a web interface (Streamlit)
 * Support additional document types
 * Export data to Excel or databases
+
+## Document Intelligence Studio Validation
+
+Before building the application, the model was tested using Azure Document Intelligence Studio to validate extraction accuracy.
+
+### Document Analysis
+![Studio Analysis](assets/studio-analysis.png)
+
+### Extracted Fields
+![Studio Fields](assets/studio-fields.png)
+
+## Project Demo
+
+### Application Code
+![Code Setup](assets/code-setup.png)
+![Processing Logic](assets/code-processing.png)
+
+### Terminal Execution
+![Terminal Run](assets/terminal-run.png)
+![Terminal Output](assets/terminal-output.png)
+
+### JSON Output
+![JSON Output](assets/json-output-1.png)
