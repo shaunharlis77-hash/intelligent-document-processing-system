@@ -101,7 +101,7 @@ Before building the application, the model was tested using Azure Document Intel
 
 ### Terminal Execution
 ![Terminal Run](assets/terminal-run.png)
-![Terminal Output](assets/terminal-output.png)
+![Terminal Output](assets/terminal-success.png)
 
 ### JSON Output
 ![JSON Output](assets/json-output-1.png)
